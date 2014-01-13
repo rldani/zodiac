@@ -1,0 +1,14 @@
+*.pyc
+.bzr
+.bzrignore
+.DS_Store
+.mr.developer.cfg
+.installed.cfg
+bin
+conf
+develop-eggs
+downloads
+eggs
+etc
+parts
+var
